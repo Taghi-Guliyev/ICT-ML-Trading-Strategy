@@ -66,7 +66,7 @@ ICT-ML-Fusion-Trader/
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/Taghi-Guliyev/ICT-ML-Trading-Strategy.git](https://github.com/Taghi-Guliyev/ICT-ML-Trading-Strategy.git)
+    git clone [https://github.com/Taghi-Guliyev/ict-ml-trading-framework.git](https://github.com/Taghi-Guliyev/ict-ml-trading-framework.git)
     ```
 
 2.  **Install dependencies:**
