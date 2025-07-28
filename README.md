@@ -85,3 +85,8 @@ ICT-ML-Fusion-Trader/
 * **Data:** Replace `nq21-24.csv` and `nq25.csv` in the `Data/` folder with your own OHLC data. Ensure it follows the same format.
 * **Parameters:** Adjust strategy and model parameters in `config.py` (e.g., `FVG_DISPLACEMENT_FACTOR`, `RR_RATIO`, `RSI_WINDOW`).
 * **Model:** The Random Forest model should be retrained if you switch to a different asset or timeframe to ensure its predictions are relevant.
+
+
+📄 License
+
+This project is for educational and research purposes.
