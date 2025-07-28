@@ -1,7 +1,5 @@
 # Algorithmic Trading of ICT Market Structure: A Quantitative Approach to Price Action using a Machine Learning Confirmation Layer
 
-## Automated Trading System for Fair Value Gap (FVG) Strategies with ML Confirmation
-
 ## System Overview
 
 This project implements an agent-based trading system that:
